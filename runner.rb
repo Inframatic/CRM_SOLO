@@ -11,8 +11,8 @@ require_relative 'class_contact'
 
  		
  		
- 	# puts  "Welcome to Ian Steffy's contact Database"
- 	# sleep 3
+ 	puts  "Welcome to Ian Steffy's contact Database"
+ 	sleep 3
 	 		while true
 		 	 puts "If you would like to add a contact, type 'add'"
 		 	 puts "To modify an existing contact, type 'modify'"
